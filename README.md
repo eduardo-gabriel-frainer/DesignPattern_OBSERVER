@@ -13,11 +13,17 @@ Os Design Patterns são soluções reutilizáveis para problemas comuns no desen
 
 <hr>
 
-Estrutura do Sistema
 ![image](https://github.com/user-attachments/assets/18e6b9b2-fd38-4743-be5b-308d28f508ff)
-Classe Main: O código cria um sujeito (Subject) e dois observadores (ConcreteObserver), que são adicionados à lista de observadores do sujeito. Quando o sujeito é notificado, cada observador recebe e imprime a mensagem "Olá, Observadores!".
+<br>
+Estrutura do Sistema
+<hr>
+
 ![image](https://github.com/user-attachments/assets/7f815830-6d6d-41c5-8279-fe5377265dbc)
-Saída do Terminal após execução.
+<br>
+Classe Main: O código cria um sujeito (Subject) e dois observadores (ConcreteObserver), que são adicionados à lista de observadores do sujeito. Quando o sujeito é notificado, cada observador recebe e imprime a mensagem "Olá, Observadores!".
+<hr>
+
 ![image](https://github.com/user-attachments/assets/1fc45a66-8dca-4774-b4ac-309336a5b77f)
-
-
+<br>
+Saída do Terminal após execução.
+<hr>
